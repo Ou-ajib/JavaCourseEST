@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestTP1",
+            "request": "launch",
+            "mainClass": "TestTP1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestComparable",
+            "request": "launch",
+            "mainClass": "TestComparable"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ComparableTest",
+            "request": "launch",
+            "mainClass": "ComparableTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeSetTest",
+            "request": "launch",
+            "mainClass": "TreeSetTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TreeTest",
+            "request": "launch",
+            "mainClass": "TreeTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Tree",
+            "request": "launch",
+            "mainClass": "Tree"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MapTest",
+            "request": "launch",
+            "mainClass": "MapTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Main",
+            "request": "launch",
+            "mainClass": "Main"
+        }
+    ]
+}
