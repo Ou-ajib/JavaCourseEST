@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Counter",
+            "request": "launch",
+            "mainClass": "Counter",
+            "projectName": "Threads_938b89a"
+        }
+    ]
+}

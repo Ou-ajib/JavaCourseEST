@@ -1,0 +1,28 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestOrder",
+            "request": "launch",
+            "mainClass": "TestOrder"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadTest",
+            "request": "launch",
+            "mainClass": "ThreadTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - RunnableTest",
+            "request": "launch",
+            "mainClass": "RunnableTest"
+        }
+    ]
+}
